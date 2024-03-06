@@ -1,0 +1,11 @@
+<style>
+        .container {
+         display: flex;
+         gap: 10px;
+        }
+        .item {
+         flex-grow: 50;
+         height: 50px;
+         border: dashed 1px;
+        }
+        </style>
